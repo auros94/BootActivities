@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=HP Universal Camera Driver
+Version=3.5.8.14
+Company=SunplusIT
+Lang=0409
